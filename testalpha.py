@@ -1,5 +1,5 @@
 ####################
-## TEST DEXTER 
+## TEST SCANNER CON SELENIUM
 ####################
 
 # LIBRERIAS
